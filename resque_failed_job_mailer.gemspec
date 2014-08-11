@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = ResqueFailedJobMailer::VERSION
   s.authors     = ["Anand Agrawal", "Rajashree Malvade"]
   s.email       = ["aagrawal@thoughtworks.com", "rajashreermalvade@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/anandagrawal84/resque_failed_job_mailer"
   s.summary     = %q{Gem that sends mail in case of resque job failure}
   s.description = %q{Gem that sends mail in case of resque job failure}
 
